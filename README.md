@@ -4,7 +4,7 @@ The project demonstrate VueJS components provided by AWS Amplify for Authenticat
 
 A detailed walkthrough of the project available on Dev.to
 
-Blog : 
+Blog : https://dev.to/zachjonesnoel/aws-amplify-and-front-end-development-2h19
 
 Author : https://dev.to/zachjonesnoel
 
